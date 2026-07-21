@@ -1,4 +1,4 @@
-Amazon Superstore Sales Analysis Dashboard:
+Amazon Superstore Sales Analytics Dashboard:
 
 1.Project Overview:
 	This project analyzes Amazon Superstore sales data to uncover key business insights related to sales performance, profitability, product categories. The dashboard is built using Power BI and demonstrates data cleaning, transformation, data modeling, DAX calculations, and interactive visualization techniques.
